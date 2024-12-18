@@ -9,7 +9,7 @@ I’ve been an avid technology information enthusiast for quite some time now. T
 Something that the Gartner curve doesn’t show, is that the **trough of disillusionment** has two possible outcomes. An innovation can travel onwards up to the **plateau of productivity**, or it can falls into the **innovation graveyard**. It illustrates the maturity, adoption, social application, and death of specific technologies over time. It serves as a valuable tool for understanding how emerging technologies evolve through various phases of public perception and market readiness.
 
 
-## Stages of the Hype
+## Stages of Hype
 
 The **Hype Stages** comprises five distinct stages:  
 
