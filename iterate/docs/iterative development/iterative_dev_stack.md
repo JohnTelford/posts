@@ -1,21 +1,20 @@
+# Iterative Website Development <a id='iterative_dev_stack'></a>
+
+``` {note}
+  This is a **note**
+  second line
+```
 
 
-# Iterative Website Development
-
-??? abstract "Purpose"
+ ```{abstract} "Purpose"
     The purpose of Iterative Website Development is to minimize website projects life time costs
-
-!!! note
-    This is a **note**
-    what does it say
-    more
-    
-
-
-<figure markdown>
+```
+<!-- <figure markdown>
   ![Dev Stack](../img/Iterative Website Stack v2.png){width="800"}
   <figcaption>Iterative Website Development Stack</figurecaption>
-</figure>
+</figure> -->
+
+<img src="../img/Iterative Website Stack v2.png" width="800" />
 
 ## **Key Technologies**
 
@@ -90,7 +89,8 @@ The Repository Guardian requests Content Delivery Network to deploy a production
 
 # **Development Example**
 
-The Respiratory Guardian creates an initial Development Environment Respiratory. It contains the configured software development environment needed to create to the Production Website. 
+The Respiratory Guardian creates an initial Development Environment Respiratory. It contains
+ the configured software development environment needed to create to the Production Website. 
 
 The Respiratory Guardian creates the initial Main Project Respiratory. It contains the initial website file structure with basic things all developers will use with their copies, including a `git lock`  main branch.
 
@@ -109,3 +109,10 @@ Every so often Alice and Bob using `git commit`, using a specific `git branch` t
 When Alice or Bod think their software is ready to be included in the Main Project Repository, they `git pull`
 
 ---
+
+
+
+
+```python
+
+```
